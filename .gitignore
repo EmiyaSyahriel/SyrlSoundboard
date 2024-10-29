@@ -1,0 +1,11 @@
+# VSCode Things except Debug Launch Settings
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# dotnet build artifacts
+bin/
+obj/
+**/bin/
+**/obj/
